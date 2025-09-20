@@ -65,6 +65,7 @@ mental-health-international-students-sql/
 │
 ├── query.sql                    # código SQL da análise
 ├── results.png                  # print do resultado final
+├── LICENSE                      # licença do projeto
 └── README.md                    # documentação do projeto
 ```
 
@@ -92,3 +93,10 @@ mental-health-international-students-sql/
 - 📈 Comparar estudantes internacionais com estudantes locais para investigar diferenças de adaptação.  
 - 🛠️ Automatizar a análise em SQL + Python, criando um pipeline reprodutível.  
 - 🌍 Produzir versão em inglês do README para aumentar o alcance internacional do portfólio.
+
+  ---
+
+## 📜 Licença
+
+Este projeto está licenciado sob os termos da [MIT License](./LICENSE).  
+Você é livre para usar, copiar, modificar e distribuir este repositório, desde que mantenha a atribuição ao autor original.  
