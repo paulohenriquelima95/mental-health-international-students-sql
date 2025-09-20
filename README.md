@@ -1,3 +1,5 @@
+![Made with SQL](https://img.shields.io/badge/Made%20with-SQL-blue)
+
 # 🧠 Análise da Saúde Mental de Estudantes Internacionais (SQL)
 
 ## 🎯 Objetivo
